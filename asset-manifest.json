@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pockemone/static/css/main.81a6aaab.css",
+    "main.js": "/pockemone/static/js/main.8ef1d10c.js",
+    "static/media/error.jpg": "/pockemone/static/media/error.016d947c1955838b1c2a.jpg",
+    "static/media/default-pokemon.png": "/pockemone/static/media/default-pokemon.6537f30afd5076cd45ac.png",
+    "index.html": "/pockemone/index.html",
+    "main.81a6aaab.css.map": "/pockemone/static/css/main.81a6aaab.css.map",
+    "main.8ef1d10c.js.map": "/pockemone/static/js/main.8ef1d10c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a6aaab.css",
+    "static/js/main.8ef1d10c.js"
+  ]
+}
